@@ -1,4 +1,4 @@
-# DS18B20 non blocking Script
+# Non blocking DS18B20 Arduino Script
 
 This Arduino script reads a DS18B20 temperature sensor only by using the OneWire library. 
 The script initiates temperature measurements, checks if the sensor is busy, and retrieves temperature data.
